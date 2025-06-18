@@ -1,4 +1,4 @@
-with open("app.py", "w") as f:
+with open("app-v1.py", "w") as f:
     f.write('''
 import streamlit as st
 import pandas as pd
